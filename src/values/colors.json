@@ -1,0 +1,18 @@
+[
+  {
+    "comment": "Color Palette"
+  },
+  {
+    "variable": {
+      "name": "black",
+      "value": "#000000"
+    }
+  },
+  {
+    "variable": {
+      "name": "white",
+      "value": "#FFFFFF"
+    }
+  }
+]
+

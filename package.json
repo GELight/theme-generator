@@ -1,0 +1,24 @@
+{
+  "name": "theme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "author": "gelight@ŋmx.de",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GELight/theme-generator.git"
+  },
+  "scripts": {
+    "build": "npm start",
+    "start": "npm run clean && babel-node src/index.js && npm run copy-resources",
+    "clean": "rm -rf dist",
+    "test": "jest",
+    "copy-resources": "cp -R ./fonts dist && cp -R ./src/mixins dist/mixins",
+    "version": "git add .",
+    "postversion": "git push && git push --tags"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "jest": "^23.6.0"
+  }
+}

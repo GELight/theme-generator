@@ -1,0 +1,104 @@
+[
+    {
+        "comment": "For information on browser support cf. https://css-tricks.com/snippets/css/using-font-face"
+    },
+    {
+        "comment": "Google Webfonts helper: https://google-webfonts-helper.herokuapp.com/fonts/roboto?subsets=latin-ext,latin"
+    },
+    {
+        "font": {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "100",
+            "src": {
+                "local": "Thin",
+                "url": "./fonts/roboto-v18-latin_latin-ext-100",
+                "formats": ["woff", "woff2"]
+            }
+        }
+    },
+    {
+        "font": {
+            "family": "Roboto",
+            "style": "italic",
+            "weight": "100",
+            "src": {
+                "local": "Thin Italic",
+                "url": "./fonts/roboto-v18-latin_latin-ext-100italic",
+                "formats": ["woff", "woff2"]
+            }
+        }
+    },
+    {
+        "font": {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "400",
+            "src": {
+                "local": "Regular",
+                "url": "./fonts/roboto-v18-latin_latin-ext-regular",
+                "formats": ["woff", "woff2"]
+            }
+        }
+    },
+    {
+        "font": {
+            "family": "Roboto",
+            "style": "italic",
+            "weight": "400",
+            "src": {
+                "local": "Italic",
+                "url": "./fonts/roboto-v18-latin_latin-ext-italic",
+                "formats": ["woff", "woff2"]
+            }
+        }
+    },
+    {
+        "font": {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "700",
+            "src": {
+                "local": "Bold",
+                "url": "./fonts/roboto-v18-latin_latin-ext-700",
+                "formats": ["woff", "woff2"]
+            }
+        }
+    },
+    {
+        "font": {
+            "family": "Roboto",
+            "style": "italic",
+            "weight": "700",
+            "src": {
+                "local": "Bold Italic",
+                "url": "./fonts/roboto-v18-latin_latin-ext-700italic",
+                "formats": ["woff", "woff2"]
+            }
+        }
+    },
+    {
+        "font": {
+            "family": "Roboto",
+            "style": "normal",
+            "weight": "900",
+            "src": {
+                "local": "Black",
+                "url": "./fonts/roboto-v18-latin_latin-ext-900",
+                "formats": ["woff", "woff2"]
+            }
+        }
+    },
+    {
+        "font": {
+            "family": "Roboto",
+            "style": "italic",
+            "weight": "900",
+            "src": {
+                "local": "Black Italic",
+                "url": "./fonts/roboto-v18-latin_latin-ext-900",
+                "formats": ["woff", "woff2"]
+            }
+        }
+    }
+]

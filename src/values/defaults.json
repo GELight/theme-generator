@@ -1,0 +1,64 @@
+[
+    {
+        "comment": "Default Theme Variables"
+    },
+    {
+        "variable": {
+            "name": "space-default",
+            "value": "1em"
+        }
+    },
+    {
+        "comment": "Font"
+    },
+    {
+        "variable": {
+            "name": "font-family-default",
+            "value": "Roboto, Helvetica, Arial"
+        }
+    },
+    {
+        "variable": {
+            "name": "font-size-default",
+            "value": "13px"
+        }
+    },
+    {
+        "variable": {
+            "name": "font-color-default",
+            "value": {
+                "variable": "black"
+            }
+        }
+    },
+    {
+        "variable": {
+            "name": "line-height-default",
+            "value": "normal"
+        }
+    },
+    {
+        "variable": {
+            "name": "font-weight-default",
+            "value": "400"
+        }
+    },
+    {
+        "variable": {
+            "name": "font-style-default",
+            "value": "normal"
+        }
+    },
+    {
+        "variable": {
+            "name": "font-stretch-default",
+            "value": "normal"
+        }
+    },
+    {
+        "variable": {
+            "name": "letter-spacing-default",
+            "value": "normal"
+        }
+    }
+]

@@ -1,0 +1,35 @@
+
+/* Color Palette */
+
+$black: #000000;
+$white: #FFFFFF;
+
+/* CSS Breakpoints */
+
+$breakpoint-360: 360px;
+$breakpoint-400: 400px;
+$breakpoint-480: 480px;
+$breakpoint-600: 600px;
+$breakpoint-720: 720px;
+$breakpoint-840: 840px;
+$breakpoint-960: 960px;
+$breakpoint-1024: 1024px;
+$breakpoint-1280: 1280px;
+$breakpoint-1440: 1440px;
+$breakpoint-1600: 1600px;
+$breakpoint-1920: 1920px;
+
+/* Default Theme Variables */
+
+$space-default: 1em;
+
+/* Font */
+
+$font-family-default: Roboto, Helvetica, Arial;
+$font-size-default: 13px;
+$font-color-default: $black;
+$line-height-default: normal;
+$font-weight-default: 400;
+$font-style-default: normal;
+$font-stretch-default: normal;
+$letter-spacing-default: normal;

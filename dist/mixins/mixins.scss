@@ -1,0 +1,41 @@
+
+// Translation
+
+@mixin transition($t: all .2s ease-in-out) {
+    -webkit-transition: $t;
+    -moz-transition: $t;
+    -ms-transition: $t;
+    -o-transition: $t;
+    transition: $t;
+}
+
+
+// Text
+
+@mixin text(
+    $font-family: $font-family-default, 
+    $font-size: $font-size-default, 
+    $color: $font-color-default, 
+    $font-weight: $font-weight-default, 
+    $line-height: $line-height-default,
+    $font-style: $font-style-default,
+    $letter-spacing: $letter-spacing-default
+) {
+    font-family: $font-family;
+    @if $font-size { font-size: $font-size; }
+    @if $color { color: $color; }
+    font-weight: $font-weight;
+    line-height: $line-height;
+    font-style: $font-style;
+    letter-spacing: $letter-spacing;
+}
+
+
+// Placeholder for Input Fields
+
+@mixin input-placeholder {
+    &::-webkit-input-placeholder { @content } 
+    &:-moz-placeholder           { @content }
+    &::-moz-placeholder          { @content }
+    &:-ms-input-placeholder      { @content }
+}

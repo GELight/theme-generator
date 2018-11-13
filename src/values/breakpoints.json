@@ -1,0 +1,77 @@
+[
+  {
+    "comment": "CSS Breakpoints"
+  },
+  {
+    "variable": {
+      "name": "breakpoint-360",
+      "value": "360px"
+    }
+  },
+  {
+    "variable": {
+      "name": "breakpoint-400",
+      "value": "400px"
+    }
+  },
+  {
+    "variable": {
+      "name": "breakpoint-480",
+      "value": "480px"
+    }
+  },
+  {
+    "variable": {
+      "name": "breakpoint-600",
+      "value": "600px"
+    }
+  },
+  {
+    "variable": {
+      "name": "breakpoint-720",
+      "value": "720px"
+    }
+  },
+  {
+    "variable": {
+      "name": "breakpoint-840",
+      "value": "840px"
+    }
+  },
+  {
+    "variable": {
+      "name": "breakpoint-960",
+      "value": "960px"
+    }
+  },
+  {
+    "variable": {
+      "name": "breakpoint-1024",
+      "value": "1024px"
+    }
+  },
+  {
+    "variable": {
+      "name": "breakpoint-1280",
+      "value": "1280px"
+    }
+  },
+  {
+    "variable": {
+      "name": "breakpoint-1440",
+      "value": "1440px"
+    }
+  },
+  {
+    "variable": {
+      "name": "breakpoint-1600",
+      "value": "1600px"
+    }
+  },
+  {
+    "variable": {
+      "name": "breakpoint-1920",
+      "value": "1920px"
+    }
+  }
+]
